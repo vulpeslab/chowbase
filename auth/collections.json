@@ -71,7 +71,7 @@
       "secureKey": "YXV0aD0weCx0b255LDY2OTE="
     },
     "accVariables": {
-      "chowBalance": 65000,
+      "chowBalance": 0,
       "pin": 1234
     },
     "accInfo": {
