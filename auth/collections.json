@@ -71,15 +71,15 @@
       "secureKey": "YXV0aD0weCx0b255LDY2OTE="
     },
     "accVariables": {
-      "chowBalance": 0,
+      "chowBalance": 65000,
       "pin": 1234
     },
     "accInfo": {
-      "firstName": "Tony",
-      "middleName": "Emmanuel",
-      "lastName":"Adeniyi",
-      "matricNo": "LCU/UG/22/20128",
-      "emailAddr": "tadeniyi@vulpeslabs.com",
+      "firstName": "Tosin",
+      "middleName": "Joseph",
+      "lastName":"Fadaka",
+      "matricNo": "LCU/UG/22/19317",
+      "emailAddr": "tfadaka@vulpeslabs.com",
       "nxtFunding": ""
     }
   }
