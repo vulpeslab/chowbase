@@ -7,15 +7,19 @@
   </head>
   <script>
     function addBalance(){
-        localStorage.setItem(usrChowBal, 74500);
-        console.log("done");
+        localStorage.setItem("usrChowBal", 74500);
+        const stater = document.getElementById("status");
+        stater.innerText = "Done";
     }
   </script>
   
   <body><button class=""></button>
-    <a target="_blank" href="./auth/collections.json">View It</a>
+    <a style="display: none;" target="_blank" href="./auth/collections.json">View It</a>
+    <h2>Update balance to 74500</h2>
     <div>
-      <button onclick="addBalance()">Add more</button>
+      <button style="" onclick="addBalance()">UPDATE IT!</button>
+      <p>Status: <span id="status">Click the button to update it</span></p>
     </div>
+    <h6 class="">Once the status changes to Done then you are good to go if not please contact me!</h6>
   </button></body>
 </html>
