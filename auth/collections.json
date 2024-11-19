@@ -1,74 +1,30 @@
-
 {
-  "eadebayo": {
+  "boss": {
     "authInfo": {
-      "uuid": "HxX11d3ErgE",
+      "uuid": "",
       "priority": "chow-usr-00",
-      "username": "eadebayo",
-      "secureKey": "YXV0aD0weCxlYWRlYmF5byxGdWNrYm95MDE="
+      "username": "boss",
+      "secureKey": "YXV0aD0weCxib3NzLGJpZ2Q="
     },
     "accVariables": {
       "chowBalance": 0,
       "pin": 1234
     },
     "accInfo": {
-      "firstName": "Emmanuel",
-      "middleName": "Boluwatife",
-      "lastName":"Adebayo",
-      "matricNo": "LCU/UG/21/13882",
-      "emailAddr": "eadebayo@vulpeslabs.com",
+      "firstName": "Joshua",
+      "middleName": "Chukwuchebem",
+      "lastName": "Okoye",
+      "matricNo": "LCU/UG/21/15622",
+      "emailAddr": "joshuaok@gmail.com",
       "nxtFunding": ""
     }
   },
-
-  "beekay12": {
+  "tosin": {
     "authInfo": {
-      "uuid": "HTZnQEuz9eh",
+      "uuid": "",
       "priority": "chow-usr-01",
-      "username": "beekay12",
-      "secureKey": "YXV0aD0weCxiZWVrYXkxMixNZWRpYUFnYXRlNTYh"
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Olamide",
-      "middleName": "Joseph",
-      "lastName":"Adebayo",
-      "matricNo": "LCU/UG/21/19348",
-      "emailAddr": "olajosh25@vulpeslabs.com",
-      "nxtFunding": ""
-    }
-  },
-
-  "jmadu": {
-    "authInfo": {
-      "uuid": "D1RWMCY",
-      "priority": "chow-usr-01",
-      "username": "jmadu",
-      "secureKey": "YXV0aD0weCxqbWFkdSxyYWdlMTAx"
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "James",
-      "middleName": "Ugbono",
-      "lastName":"Madu",
-      "matricNo": "LCU/UG/21/16891",
-      "emailAddr": "jmadu@vulpeslabs.com",
-      "nxtFunding": ""
-    }
-  },
-
-  "tony": {
-    "authInfo": {
-      "uuid": "3yczYx",
-      "priority": "chow-usr-01",
-      "username": "tony",
-      "secureKey": "YXV0aD0weCx0b255LDY2OTE="
+      "username": "tosin",
+      "secureKey": "YXV0aD0weCx0b3Npbiw2Njkx"
     },
     "accVariables": {
       "chowBalance": 0,
@@ -77,9 +33,89 @@
     "accInfo": {
       "firstName": "Tosin",
       "middleName": "Joseph",
-      "lastName":"Fadaka",
+      "lastName": "Fadaka",
       "matricNo": "LCU/UG/22/19317",
-      "emailAddr": "tfadaka@vulpeslabs.com",
+      "emailAddr": "tfadaka@gmail.com",
+      "nxtFunding": ""
+    }
+  },
+  "facts": {
+    "authInfo": {
+      "uuid": "",
+      "priority": "chow-usr-01",
+      "username": "facts",
+      "secureKey": "YXV0aD0weCxmYWN0cyw0cmVhbA=="
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "Oluwatobi",
+      "middleName": "Frederick",
+      "lastName": "Olagesin",
+      "matricNo": "LCU/UG/21/24686",
+      "emailAddr": "tobifredrick@gmail.com",
+      "nxtFunding": ""
+    }
+  },
+  "yobro": {
+    "authInfo": {
+      "uuid": "",
+      "priority": "chow-usr-01",
+      "username": "yobro",
+      "secureKey": "YXV0aD0weCx5b2JybyxjcnVpc2U="
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "Kingsley",
+      "middleName": "Ugbono",
+      "lastName": "Olutekunbi",
+      "matricNo": "LCU/UG/19/19978",
+      "emailAddr": "kingsleyolu@gmail.com",
+      "nxtFunding": ""
+    }
+  },
+  "swallow": {
+    "authInfo": {
+      "uuid": "",
+      "priority": "chow-usr-01",
+      "username": "swallow",
+      "secureKey": "YXV0aD0weCxzd2FsbG93LDRmb29k"
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "David",
+      "middleName": "Richard",
+      "lastName": "Adeniyi",
+      "matricNo": "LCU/UG/21/19228",
+      "emailAddr": "drichard@gmail.com",
+      "nxtFunding": ""
+    }
+  },
+  "beekay": {
+    "authInfo": {
+      "uuid": "",
+      "priority": "chow-usr-01",
+      "username": "beekay",
+      "secureKey": "YXV0aD0weCxiZWVrYXksbWVkaWFnYXRl"
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "Olamide",
+      "middleName": "Joseph",
+      "lastName": "Adebayo",
+      "matricNo": "LCU/UG/21/19348",
+      "emailAddr": "ojoseph@gmail.com",
       "nxtFunding": ""
     }
   }
