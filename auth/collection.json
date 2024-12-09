@@ -18,25 +18,5 @@
       "emailAddr": "jonome@gmail.com",
       "nxtFunding": ""
     }
-  },
-  "beekay": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "beekay",
-      "secureKey": "YXV0aD0weCxiZWVrYXksbWVkaWE="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Olamide",
-      "middleName": "Caleb",
-      "lastName": "Adeniyi",
-      "matricNo": "LCU/UG/22/13924",
-      "emailAddr": "calebmide@gmail.com",
-      "nxtFunding": ""
-    }
   }
 }
