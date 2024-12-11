@@ -79,46 +79,6 @@
       "nxtFunding": ""
     }
   },
-  "taff": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "taff",
-      "secureKey": "YXV0aD0weCx0YWZmLGNob3A="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Sodiq",
-      "middleName": "Mohammed",
-      "lastName": "Bello",
-      "matricNo": "LCU/UG/22/17331",
-      "emailAddr": "sodiqbell@gmail.com",
-      "nxtFunding": ""
-    }
-  },
-  "facts": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "facts",
-      "secureKey": "YXV0aD0weCxmYWN0cyxmcmZy"
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "David",
-      "middleName": "Uchenna",
-      "lastName": "Okwara",
-      "matricNo": "LCU/UG/21/19268",
-      "emailAddr": "uchedave@gmail.com",
-      "nxtFunding": ""
-    }
-  },
   "beekay": {
     "authInfo": {
       "uuid": "",
@@ -156,46 +116,6 @@
       "lastName": "Bashir",
       "matricNo": "LCU/UG/21/20317",
       "emailAddr": "joebash@gmail.com",
-      "nxtFunding": ""
-    }
-  },
-  "silver": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "silver",
-      "secureKey": "YXV0aD0weCxzaWx2ZXIscGxhdGU="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Micah",
-      "middleName": "Blessing",
-      "lastName": "Adebayo",
-      "matricNo": "LCU/UG/22/20475",
-      "emailAddr": "micahsblessings@gmail.com",
-      "nxtFunding": ""
-    }
-  },
-  "bronze": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "bronze",
-      "secureKey": "YXV0aD0weCxicm9uemUsc3dpZnQ="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Paul",
-      "middleName": "Obot",
-      "lastName": "Itunu",
-      "matricNo": "LCU/UG/22/17458",
-      "emailAddr": "pobot@gmail.com",
       "nxtFunding": ""
     }
   }
