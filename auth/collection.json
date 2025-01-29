@@ -19,26 +19,6 @@
       "nxtFunding": ""
     }
   },
-  "sales": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "sales",
-      "secureKey": "YXV0aD0weCxzYWxlcyxjYXNo"
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Samuel",
-      "middleName": "Kayode",
-      "lastName": "Olabisi",
-      "matricNo": "LCU/UG/21/17213",
-      "emailAddr": "kaybisi@gmail.com",
-      "nxtFunding": ""
-    }
-  },
   "shills": {
     "authInfo": {
       "uuid": "",
@@ -59,26 +39,6 @@
       "nxtFunding": ""
     }
   },
-  "bgee": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "bgee",
-      "secureKey": "YXV0aD0weCxiZ2VlLHBsdXM="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Korede",
-      "middleName": "Ayomide",
-      "lastName": "Oluwole",
-      "matricNo": "LCU/UG/22/13760",
-      "emailAddr": "koyoyo@gmail.com",
-      "nxtFunding": ""
-    }
-  },
   "beekay": {
     "authInfo": {
       "uuid": "",
@@ -96,26 +56,6 @@
       "lastName": "Adeniyi",
       "matricNo": "LCU/UG/22/13924",
       "emailAddr": "calebmide@gmail.com",
-      "nxtFunding": ""
-    }
-  },
-  "jonk": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "jonk",
-      "secureKey": "YXV0aD0weCxqb25rLGJhbGw="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Joseph",
-      "middleName": "Somto",
-      "lastName": "Bashir",
-      "matricNo": "LCU/UG/21/20317",
-      "emailAddr": "joebash@gmail.com",
       "nxtFunding": ""
     }
   }
