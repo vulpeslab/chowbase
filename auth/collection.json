@@ -59,6 +59,26 @@
       "nxtFunding": ""
     }
   },
+    "dips": {
+    "authInfo": {
+      "uuid": "",
+      "priority": "chow-usr-01",
+      "username": "dips",
+      "secureKey": "YXV0aD0weCxkaXBzLGJhYmVz"
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "Emmanuel",
+      "middleName": "Oladayo",
+      "lastName": "Adebayo",
+      "matricNo": "LCU/UG/22/17331",
+      "emailAddr": "dayobayo@gmail.com",
+      "nxtFunding": ""
+    }
+  },
   "bronze": {
     "authInfo": {
       "uuid": "",
