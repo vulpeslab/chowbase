@@ -1,24 +1,4 @@
 {
-    "bgee": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "bgee",
-      "secureKey": "YXV0aD0weCxiZ2VlLHBsdXM="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Korede",
-      "middleName": "Ayomide",
-      "lastName": "Oluwole",
-      "matricNo": "LCU/UG/22/13760",
-      "emailAddr": "koyoyo@gmail.com",
-      "nxtFunding": ""
-    }
-  },
   "beekay": {
     "authInfo": {
       "uuid": "",
