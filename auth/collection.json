@@ -1,24 +1,4 @@
 {
-    "facts": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "facts",
-      "secureKey": "YXV0aD0weCxmYWN0cyxmcmZy"
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "David",
-      "middleName": "Uchenna",
-      "lastName": "Okwara",
-      "matricNo": "LCU/UG/21/19268",
-      "emailAddr": "uchedave@gmail.com",
-      "nxtFunding": ""
-    }
-  },
     "bgee": {
     "authInfo": {
       "uuid": "",
@@ -76,26 +56,6 @@
       "lastName": "Adebayo",
       "matricNo": "LCU/UG/22/17331",
       "emailAddr": "dayobayo@gmail.com",
-      "nxtFunding": ""
-    }
-  },
-  "bronze": {
-    "authInfo": {
-      "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "bronze",
-      "secureKey": "YXV0aD0weCxicm9uemUsc3dpZnQ="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Paul",
-      "middleName": "Obot",
-      "lastName": "Itunu",
-      "matricNo": "LCU/UG/22/17458",
-      "emailAddr": "pobot@gmail.com",
       "nxtFunding": ""
     }
   }
