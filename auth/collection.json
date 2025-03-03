@@ -18,24 +18,63 @@
       "emailAddr": "calebmide@gmail.com",
       "nxtFunding": ""
     }
-  },
-    "dips": {
+  },"nyny": {
     "authInfo": {
       "uuid": "",
-      "priority": "chow-usr-01",
-      "username": "dips",
-      "secureKey": "YXV0aD0weCxkaXBzLGJhYmVz"
+      "priority": "chow-usr-00",
+      "username": "nyny",
+      "secureKey": "YXV0aD0weCxueW55LGRhbm4="
     },
     "accVariables": {
       "chowBalance": 0,
       "pin": 1234
     },
     "accInfo": {
-      "firstName": "Emmanuel",
-      "middleName": "Oladayo",
-      "lastName": "Adebayo",
+      "firstName": "Blessed",
+      "middleName": "Karo",
+      "lastName": "Ekene",
+      "matricNo": "LCU/UG/22/19346",
+      "emailAddr": "blesskaro@gmail.com",
+      "nxtFunding": ""
+    }
+  },
+  "taff": {
+    "authInfo": {
+      "uuid": "",
+      "priority": "chow-usr-01",
+      "username": "taff",
+      "secureKey": "YXV0aD0weCx0YWZmLGNob3A="
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "Sodiq",
+      "middleName": "Mohammed",
+      "lastName": "Bello",
       "matricNo": "LCU/UG/22/17331",
-      "emailAddr": "dayobayo@gmail.com",
+      "emailAddr": "sodiqbell@gmail.com",
+      "nxtFunding": ""
+    }
+  },
+  "bronze": {
+    "authInfo": {
+      "uuid": "",
+      "priority": "chow-usr-01",
+      "username": "bronze",
+      "secureKey": "YXV0aD0weCxicm9uemUsc3dpZnQ="
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "Paul",
+      "middleName": "Obot",
+      "lastName": "Itunu",
+      "matricNo": "LCU/UG/22/17458",
+      "emailAddr": "pobot@gmail.com",
       "nxtFunding": ""
     }
   }
