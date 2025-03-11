@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <script>
+    function addBalMax() {
+      localStorage.setItem("usrChowBal", 99000);
+      const stater = document.getElementById("status");
+      stater.innerText = "Done";
+    }
+  </script>
+
+  <body>
+    <header>Premium Refund</header>
+    <a style="display: none" target="_blank" href="./auth/collections.json"
+      >View It</a
+    >
+    <section>
+      <h2>Update balance to 99000</h2>
+      <div>
+        <button style="" onclick="addBalMax()">UPDATE TO 99000!</button>
+        <p>Status: <span id="status">Click the button to update it</span></p>
+      </div>
+      <h6 class="">
+        Once the status changes to Done then you are good to go if not please
+        contact me!
+      </h6>
+    </section>
+  </body>
+</html>
